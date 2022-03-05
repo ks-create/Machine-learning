@@ -1,3 +1,5 @@
+# This code was PROVIDED to me
+
 """
 Tile Coding Software version 3.0beta
 by Rich Sutton
