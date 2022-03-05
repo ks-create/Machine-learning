@@ -1,4 +1,4 @@
-# STUDENTS: DO NOT CHANGE THIS FILE
+# This code was PROVIDED to me
 from __future__ import division
 import numpy as np
 import math
