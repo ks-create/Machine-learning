@@ -1,3 +1,5 @@
+# This code was PROVIDED to me
+
 """
 2D rendering framework
 Taken from: https://github.com/openai/gym/blob/master/gym/envs/classic_control/rendering.py
