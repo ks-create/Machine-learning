@@ -6,9 +6,9 @@ Kunpeng Wang, UID: 706180077
 
 All necessary code and report are included in 219_project_1.ipynb. 
 
-## Python version: Python 3.10.12
+Python version: Python 3.10.12
 
-## Python packages: 
+Python packages: 
 matplotlib==3.7.1
 nltk==3.8.1
 numpy==1.23.5
@@ -17,7 +17,7 @@ scikit-learn==1.2.2
 re==2.2.1
 umap==0.5.5
 
-## Required files (to be uploaded to the same folder as 219_project_1.ipynb):
+Required files (to be uploaded to the same folder as 219_project_1.ipynb):
 Project1-ClassificationDataset.cv
 glove.6B.100d.txt 
 glove.6B.200d.txt
